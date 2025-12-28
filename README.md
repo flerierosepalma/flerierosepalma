@@ -31,6 +31,6 @@
 
 ## 🔗 Connect with Me
 
-🌐 **Portfolio:** https://fleriedev.vercel.app
+🌐 **Portfolio:** https://fleriedev.vercel.app  
 📧 **Email:** flerierosepalma@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/flerierosepalma  
+💼 **LinkedIn:** https://linkedin.com/in/flerierosepalma
