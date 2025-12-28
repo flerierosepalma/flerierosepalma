@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👩‍💻 About Me
+• 🚀 Aspiring Full-Stack Web Developer  
+• 🌱 Driven by a passion for continuous learning and creating new things  
+• 🔒 Projects are currently private while I’m actively updating them  
+• 🤝 Open to collaboration and new opportunities
 
-<!--
-**flerierosepalma/flerierosepalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔤 Languages
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode)
+
+### ⚙️ Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+
+
+## 🔗 Connect with Me
+
+🌐 **Portfolio:** https://fleriedev.vercel.app/  
+📧 **Email:** flerierosepalma@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/flerierosepalma  
