@@ -8,25 +8,25 @@
 ## 🛠️ Tech Stack
 
 ### 🔤 Languages
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-161b22?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-161b22?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python)
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma)
+![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visualstudiocode)
 
 ### ⚙️ Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss)
+![Laravel](https://img.shields.io/badge/Laravel-161b22?style=for-the-badge&logo=laravel)
+![Django](https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161b22?style=for-the-badge&logo=bootstrap)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql)
 
 
 ## 🔗 Connect with Me
