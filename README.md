@@ -1,8 +1,8 @@
 ## 👩‍💻 About Me
 🚀 Aspiring Full-Stack Web Developer  
-🌱 Passionate about building web applications, continuous learning, and creating new things  
-🔒 Academic projects are currently set to private
-🤝 Open to collaboration and new opportunities
+🌱 Passionate about building web applications, continuous learning, and creating new things    
+🔒 Academic projects are currently set to private   
+🤝 Open to collaboration and new opportunities 
 
 
 ## 🛠️ Tech Stack
