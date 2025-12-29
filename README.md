@@ -1,7 +1,7 @@
 ## 👩‍💻 About Me
 🚀 Aspiring Full-Stack Web Developer  
-🌱 Driven by a passion for continuous learning and creating new things  
-🔒 Projects are currently private while I’m actively updating them  
+🌱 Passionate about building web applications, continuous learning, and creating new things  
+🔒 Academic projects are currently set to private
 🤝 Open to collaboration and new opportunities
 
 
@@ -29,7 +29,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql)
 
 
-## 🔗 Connect with Me
+## 🔗 Let’s Connect
 
 🌐 **Portfolio:** https://fleriedev.vercel.app  
 📧 **Email:** flerierosepalma@gmail.com  
